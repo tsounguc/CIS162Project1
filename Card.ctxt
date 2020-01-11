@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Description\:\ This\ program\ displays\ a\ Java\ Applet\ used\ to\ represent\r\n\ an\ animated\ business\ card\ for\ myself.\r\n\r\n\ @author\:\ Christian\ Tsoungui\ Nkoulou\ \r\n\ @version\ 1/30/2018\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3
